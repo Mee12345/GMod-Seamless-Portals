@@ -1,0 +1,12 @@
+ "Refract"
+{
+ "$model" 1
+"$dudvmap" "glass/glass_normal"
+"$normalmap" "glass/glass_normal"
+"$surfaceprop" "glass"
+
+"<dx90"
+{
+"$fallbackmaterial" "glass/refract01_dx8"
+}
+}

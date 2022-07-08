@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models\weapons\v_models\v_hands\v_hands"
+	"$bumpmap" "models\weapons\v_models\v_hands\V_hands_normal"
+	"$phong" "1"
+	"$phongexponent" "4"
+	"$phongboost" "0.2"	
+	"$phongfresnelranges"	"[.5 3 5]"
+	"$halflambert" "1"
+}

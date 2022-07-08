@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+$basetexture "models/weapons/camera"
+$surfaceprop default
+$phong 1
+$phongexponent 20
+$phongboost 5
+$phongfresnelranges "[.3 1 8]"
+$halflambert 0
+}

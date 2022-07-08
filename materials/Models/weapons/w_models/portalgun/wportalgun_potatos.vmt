@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+$basetexture "models/weapons\w_models\portalgun\wportalgun_potatos"
+$surfaceprop default
+$selfillum 1
+}

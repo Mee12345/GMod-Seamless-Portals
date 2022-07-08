@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\weapons\v_models\v_portalgun_pb\v_hands_male"
+	"$halflambert" 1
+}

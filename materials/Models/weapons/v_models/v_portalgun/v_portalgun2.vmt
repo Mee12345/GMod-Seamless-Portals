@@ -1,0 +1,4 @@
+vertexlitgeneric
+{
+$baseTexture "models\weapons\v_models\v_portalgun/v_portalgun2"
+}
